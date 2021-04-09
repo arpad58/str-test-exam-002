@@ -1,0 +1,6 @@
+function changeOuterLinks() {
+    // 
+}
+
+
+export { changeOuterLinks };

@@ -1,0 +1,3 @@
+describe('Dom manipuláció tesztelése', () => {
+    //
+});
